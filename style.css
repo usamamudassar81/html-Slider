@@ -7,7 +7,7 @@
     font-family: "Montserrat", sans-serif;
 }
 body {
-    display: flex;
+    /* display: flex; */
     align-items: center;
     justify-content: center;
     min-height: 100vh ;
@@ -16,6 +16,7 @@ body {
  .card-list{
     display: flex;
     column-gap: 10px;
+    /* justify-content: center; */
  }
  .card-list .card-items {
     color: #fff;
